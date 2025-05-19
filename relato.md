@@ -7,27 +7,27 @@ Esta atividade tem como objetivo abordar os fundamentos do Linux, incluindo sua 
 
 O primeiro passo foi iniciar um container Fedora e com ele já iniciado realizamos uma navegação básica.
 
-<img alt="" src="./imagens/print1.png"/>
+<img alt="print1" src="./imagens/print1.png"/>
 
 Em seguida foi realizada uma manipulação de arquivos.
 
-<img alt="" src="./imagens/print2.png"/>
+<img alt="print2" src="./imagens/print2.png"/>
 
 Após isso, aprendemos como instalar e desinstalar pacotes usando dnf.
 
-<img alt="" src="./imagens/print3.png"/>
-<img alt="" src="./imagens/print4.png"/>
-<img alt="" src="./imagens/print5.png"/>
-<img alt="" src="./imagens/print6.png"/>
-<img alt="" src="./imagens/print7.png"/>
+<img alt="print3" src="./imagens/print3.png"/>
+<img alt="print4" src="./imagens/print4.png"/>
+<img alt="print5" src="./imagens/print5.png"/>
+<img alt="print6" src="./imagens/print6.png"/>
+<img alt="print7" src="./imagens/print7.png"/>
 
 Modificamos permissão de arquivos.
 
-<img alt="" src="./imagens/print8.png"/>
+<img alt="print8" src="./imagens/print8.png"/>
 
 Monitoramos e encerramos processos.
 
-<img alt="" src="./imagens/print9.png"/>
+<img alt="print9" src="./imagens/print9.png"/>
 
 Sendo assim finalizamos a atividade, encerramos saindo do conteiner e removendo-o.
 
